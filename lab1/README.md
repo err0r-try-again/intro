@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/err0r-try-again/intro/blob/main/lab1/notebooks/lab1.ipynb)
+
 # Практическое занятие 1. Рабочее окружение
 
 Автор: Хакимов Дени Равилевич, группа 251-952
